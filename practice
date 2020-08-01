@@ -1,0 +1,5 @@
+for i in range(1,10):
+	a.append(i+1)
+	hungry=i
+	print('감자는 %s개 있습니다.' %hungry)
+
